@@ -1,6 +1,6 @@
 ## Hi there 👋
-[Linkedin](www.linkedin.com/in/kayky-harley-oliveira-souza-7555b62b3)
-[instagram](https://www.instagram.com/kaykyhs_)
+[Linkedin💻](www.linkedin.com/in/kayky-harley-oliveira-souza-7555b62b3)  
+[instagram📷](https://www.instagram.com/kaykyhs_)
 
 <!--
 **kaykyhs/kaykyhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
